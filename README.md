@@ -36,9 +36,9 @@ To analyze sales performance, address key business questions, and provide insigh
 
 ## Visualizations
 ### 1. Total Revenue by Store Location
-- **<img width="785" alt="01 Total Revenue by Store Result" src="https://github.com/user-attachments/assets/11296bd2-cf44-46bf-abcc-7c19d2e0a0e7" />![01 Total Revenue by Store](https://github.com/user-attachments/assets/574b52f2-1224-4a2a-a83a-554f5fee32c1)
+<img width="785" alt="01 Total Revenue by Store Result" src="https://github.com/user-attachments/assets/11296bd2-cf44-46bf-abcc-7c19d2e0a0e7" />![01 Total Revenue by Store](https://github.com/user-attachments/assets/574b52f2-1224-4a2a-a83a-554f5fee32c1)
 
- **Insight**: Astoria generated the highest revenue.
+- **Insight**: Astoria generated the highest revenue.
 - **Recommendation**: Focus on expanding promotions and inventory in Astoria.
 
 ### 2. Transaction Volume by Store Location
@@ -50,7 +50,7 @@ To analyze sales performance, address key business questions, and provide insigh
 ### 3. Top 5 Products by Quantity Sold
 <img width="771" alt="03 Revenue by Product Result" src="https://github.com/user-attachments/assets/4170940f-d4a0-45ce-8492-3fae89dc97b2" />![03 Revenue by Product](https://github.com/user-attachments/assets/1104dbf6-ca89-4730-b91e-c987bd8f3099)
 
- **Insight**: Morning Sunrise Chai Rg is the most popular product.
+- **Insight**: Morning Sunrise Chai Rg is the most popular product.
 - **Recommendation**: Consider bundling this product with other popular items.
 
 ### 4. Revenue by Product Category
