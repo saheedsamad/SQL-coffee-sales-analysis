@@ -36,7 +36,7 @@ To analyze sales performance, address key business questions, and provide insigh
 
 ## Visualizations
 ### 1. Total Revenue by Store Location
-- **Insi<img width="785" alt="01 Total Revenue by Store Result" src="https://github.com/user-attachments/assets/11296bd2-cf44-46bf-abcc-7c19d2e0a0e7" />![01 Total Revenue by Store](https://github.com/user-attachments/assets/574b52f2-1224-4a2a-a83a-554f5fee32c1)
+- **<img width="785" alt="01 Total Revenue by Store Result" src="https://github.com/user-attachments/assets/11296bd2-cf44-46bf-abcc-7c19d2e0a0e7" />![01 Total Revenue by Store](https://github.com/user-attachments/assets/574b52f2-1224-4a2a-a83a-554f5fee32c1)
 
  **Insight**: Astoria generated the highest revenue.
 - **Recommendation**: Focus on expanding promotions and inventory in Astoria.
